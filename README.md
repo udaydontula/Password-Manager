@@ -11,9 +11,9 @@ This is a simple project to manager to different passwords for you different web
 
 **This is the preview of Password Manager.**
 ***
-![Password manager preview](img/password%20manager.png)
+![Password manager preview](img/passwordmanagerpopup.png)
 
 **This is the preview Confirmation of Password and Email in Password Manager.**
 ***
-![Password manager preview](img/password%20manager.png)
+![Password manager preview](img/passwordtextfile.png)
 **This is the preview of text file where password and email are saved.**
